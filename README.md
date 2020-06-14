@@ -1,1 +1,3 @@
 # QuanLyKhachSan
+
+- Test note
