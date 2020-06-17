@@ -14,12 +14,13 @@ create table KhachHang(
 )
 create table LoaiPhong(
 	MaLoaiPhong int primary key identity(1,1),
-	TenLoai nvarchar(50),
-	GiaThue money
+	TenLoai nvarchar(50)
+	
 )
 create table PhongThue(
 	MaPhong int primary key identity(1,1),
 	TenPhong nvarchar(10),
+	GiaThue money,
 	MaLoaiPhong int references LoaiPhong(MaLoaiPhong) on delete cascade,
 	TrangThai bit
 )
