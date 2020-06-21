@@ -76,7 +76,7 @@
             this.textBoxTK.Multiline = true;
             this.textBoxTK.Name = "textBoxTK";
             this.textBoxTK.Size = new System.Drawing.Size(283, 34);
-            this.textBoxTK.TabIndex = 2;
+            this.textBoxTK.TabIndex = 0;
             // 
             // label3
             // 
@@ -95,7 +95,7 @@
             this.textBoxMK.Multiline = true;
             this.textBoxMK.Name = "textBoxMK";
             this.textBoxMK.Size = new System.Drawing.Size(283, 34);
-            this.textBoxMK.TabIndex = 2;
+            this.textBoxMK.TabIndex = 1;
             // 
             // buttonDangNhap
             // 
@@ -107,7 +107,7 @@
             this.buttonDangNhap.Location = new System.Drawing.Point(161, 259);
             this.buttonDangNhap.Name = "buttonDangNhap";
             this.buttonDangNhap.Size = new System.Drawing.Size(129, 38);
-            this.buttonDangNhap.TabIndex = 3;
+            this.buttonDangNhap.TabIndex = 2;
             this.buttonDangNhap.Text = "Dang Nhap";
             this.buttonDangNhap.UseVisualStyleBackColor = false;
             this.buttonDangNhap.Click += new System.EventHandler(this.buttonDangNhap_Click);
@@ -141,6 +141,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "FormDangNhap";
             this.Text = "FormDangNhap";
+            this.Enter += new System.EventHandler(this.buttonDangNhap_Click);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
