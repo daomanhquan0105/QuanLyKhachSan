@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuanLyKhachSan.View;
 
 namespace QuanLyKhachSan.Controller
 {
@@ -25,6 +26,15 @@ namespace QuanLyKhachSan.Controller
         private void thoatToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void buttonThanhToan_Click(object sender, EventArgs e)
+        {
+            FormThanhToan ftt = new FormThanhToan();
+            this.Hide();
+            ftt.ShowDialog();
+            this.Show();
+
         }
     }
 }

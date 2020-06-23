@@ -141,6 +141,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.panel1);
             this.Name = "FormDangKy";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormDangKy";
             this.Enter += new System.EventHandler(this.buttonDangKyRes_Click);
             this.panel1.ResumeLayout(false);

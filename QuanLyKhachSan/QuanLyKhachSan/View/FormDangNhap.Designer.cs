@@ -140,6 +140,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.panel1);
             this.Name = "FormDangNhap";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormDangNhap";
             this.Enter += new System.EventHandler(this.buttonDangNhap_Click);
             this.panel1.ResumeLayout(false);

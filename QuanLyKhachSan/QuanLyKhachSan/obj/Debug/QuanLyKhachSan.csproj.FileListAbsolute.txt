@@ -13,7 +13,6 @@ E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKh
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Controller.FormMainMenu.resources
-E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
@@ -26,3 +25,5 @@ E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFr
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
 E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormThanhToan.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormXacNhanTT.resources

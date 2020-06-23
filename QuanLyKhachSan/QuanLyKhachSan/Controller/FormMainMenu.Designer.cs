@@ -310,9 +310,10 @@
             this.buttonThanhToan.Location = new System.Drawing.Point(53, 365);
             this.buttonThanhToan.Name = "buttonThanhToan";
             this.buttonThanhToan.Size = new System.Drawing.Size(162, 40);
-            this.buttonThanhToan.TabIndex = 0;
+            this.buttonThanhToan.TabIndex = 5;
             this.buttonThanhToan.Text = "Thanh Toan";
             this.buttonThanhToan.UseVisualStyleBackColor = false;
+            this.buttonThanhToan.Click += new System.EventHandler(this.buttonThanhToan_Click);
             // 
             // buttonThuePhong
             // 
@@ -323,7 +324,7 @@
             this.buttonThuePhong.Location = new System.Drawing.Point(53, 234);
             this.buttonThuePhong.Name = "buttonThuePhong";
             this.buttonThuePhong.Size = new System.Drawing.Size(162, 40);
-            this.buttonThuePhong.TabIndex = 0;
+            this.buttonThuePhong.TabIndex = 3;
             this.buttonThuePhong.Text = "Thue Phong";
             this.buttonThuePhong.UseVisualStyleBackColor = false;
             // 
@@ -336,7 +337,7 @@
             this.buttonDichVu.Location = new System.Drawing.Point(53, 299);
             this.buttonDichVu.Name = "buttonDichVu";
             this.buttonDichVu.Size = new System.Drawing.Size(162, 40);
-            this.buttonDichVu.TabIndex = 0;
+            this.buttonDichVu.TabIndex = 4;
             this.buttonDichVu.Text = "Dich Vu";
             this.buttonDichVu.UseVisualStyleBackColor = false;
             // 
@@ -349,7 +350,7 @@
             this.buttonKhach.Location = new System.Drawing.Point(53, 167);
             this.buttonKhach.Name = "buttonKhach";
             this.buttonKhach.Size = new System.Drawing.Size(162, 40);
-            this.buttonKhach.TabIndex = 0;
+            this.buttonKhach.TabIndex = 2;
             this.buttonKhach.Text = "Khach";
             this.buttonKhach.UseVisualStyleBackColor = false;
             // 
@@ -362,7 +363,7 @@
             this.buttonVatDung.Location = new System.Drawing.Point(53, 101);
             this.buttonVatDung.Name = "buttonVatDung";
             this.buttonVatDung.Size = new System.Drawing.Size(162, 40);
-            this.buttonVatDung.TabIndex = 0;
+            this.buttonVatDung.TabIndex = 1;
             this.buttonVatDung.Text = "Vat Dung";
             this.buttonVatDung.UseVisualStyleBackColor = false;
             // 
@@ -388,6 +389,7 @@
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel1);
             this.Name = "FormMainMenu";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FormMainMenu";
             this.Load += new System.EventHandler(this.FormMainMenu_Load);
             this.panel1.ResumeLayout(false);
