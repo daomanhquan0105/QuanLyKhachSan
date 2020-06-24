@@ -8,6 +8,7 @@ G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+<<<<<<< HEAD
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
@@ -20,3 +21,24 @@ E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKh
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
 E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormPhongThue.resources
+=======
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Controller.FormMainMenu.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangNhap.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangKy.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormThanhToan.resources
+E:\TTN\Bai5_QLKS\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormXacNhanTT.resources
+>>>>>>> 5459730363560f228cd7c5a58863e41cf0dfe272
