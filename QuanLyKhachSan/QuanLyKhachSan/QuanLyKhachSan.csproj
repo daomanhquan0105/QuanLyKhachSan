@@ -124,12 +124,6 @@
     <Compile Include="View\FormKhachHang.Designer.cs">
       <DependentUpon>FormKhachHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\FormPhongThue.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\FormPhongThue.Designer.cs">
-      <DependentUpon>FormPhongThue.cs</DependentUpon>
-    </Compile>
     <Compile Include="View\FormQLDichVu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,9 +169,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormKhachHang.resx">
       <DependentUpon>FormKhachHang.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\FormPhongThue.resx">
-      <DependentUpon>FormPhongThue.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormQLDichVu.resx">
       <DependentUpon>FormQLDichVu.cs</DependentUpon>
