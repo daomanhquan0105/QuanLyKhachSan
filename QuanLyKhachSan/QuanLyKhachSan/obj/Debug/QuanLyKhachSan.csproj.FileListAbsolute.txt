@@ -8,3 +8,15 @@ G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormKhachHang.resources
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Kì 2 năm 3\Thực tập nhóm (bài hoản chỉnh)\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormPhongThue.resources
