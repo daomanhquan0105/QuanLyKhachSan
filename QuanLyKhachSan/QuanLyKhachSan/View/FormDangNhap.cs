@@ -45,14 +45,24 @@ namespace QuanLyKhachSan.View
                     MessageBox.Show("Ban chua nhap mat khau!!");
                     this.ActiveControl = textBoxMK;
                 }
-                UserTaiKhoan user = db.UserTaiKhoans.SingleOrDefault(x => x.TaiKhoan == textBoxTK.Text
-                 && x.MatKhau == textBoxTK.Text);
-                if (user != null)
+                else
                 {
-                    this.Hide();
-                    fm.ShowDialog();
-                    this.Show();
+                    UserTaiKhoan user = db.UserTaiKhoans.SingleOrDefault(x => x.TaiKhoan == textBoxTK.Text
+                 && x.MatKhau == textBoxTK.Text);
+                    if (user != null)
+                    {
+                        this.Hide();
+                        fm.ShowDialog();
+
+                    }
+                    else
+                    {
+                        MessageBox.Show("Tai khoan hoac mat khau khong dung!!!");
+                        textBoxTK.Clear();
+                        textBoxMK.Clear();
+                    }
                 }
+                
             }
             catch (Exception ex)
             {

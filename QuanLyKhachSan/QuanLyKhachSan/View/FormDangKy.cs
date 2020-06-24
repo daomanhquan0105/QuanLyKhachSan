@@ -39,8 +39,7 @@ namespace QuanLyKhachSan.View
                     this.ActiveControl = textBoxMKRes;
                 }
 
-                UserTaiKhoan userRes = db.UserTaiKhoans.SingleOrDefault(x => x.TaiKhoan == textBoxTKRes.Text
-                && x.MatKhau == textBoxMKRes.Text); // kiem tra tk ton tai
+                UserTaiKhoan userRes = db.UserTaiKhoans.SingleOrDefault(x => x.TaiKhoan == textBoxTKRes.Text); // kiem tra tk ton tai
                 if(userRes == null)
                 {
                     UserTaiKhoan userNew = ThemUser();
