@@ -70,8 +70,8 @@ namespace QuanLyKhachSan.View
             labelTenPhong.Text = hd.PhongThue.TenPhong;
             labelGiaPhong.Text = hd.PhongThue.GiaThue.Value.ToString("#,##");
 
-            DateTime ngayBD = DateTime.Parse(hd.NgayBatDau.Value.ToString("dd/MM/yyyy"));
-            DateTime ngayTra= DateTime.Parse(hd.NgayTraPhong.Value.ToString("dd/MM/yyyy"));
+            DateTime ngayBD = DateTime.Parse(hd.NgayBatDau.Value.ToString());
+            DateTime ngayTra= DateTime.Parse(hd.NgayTraPhong.Value.ToString());
             TimeSpan soNgay = ngayTra - ngayBD;
             int SoNgayThue = soNgay.Days;
             tienPhong = hd.PhongThue.GiaThue * SoNgayThue;

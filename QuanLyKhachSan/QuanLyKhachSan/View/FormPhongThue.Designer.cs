@@ -219,16 +219,19 @@
             this.dtgr.Dock = System.Windows.Forms.DockStyle.Top;
             this.dtgr.Location = new System.Drawing.Point(0, 0);
             this.dtgr.Name = "dtgr";
+            this.dtgr.RowHeadersWidth = 51;
             this.dtgr.RowTemplate.Height = 24;
-            this.dtgr.Size = new System.Drawing.Size(808, 207);
+            this.dtgr.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dtgr.Size = new System.Drawing.Size(803, 207);
             this.dtgr.TabIndex = 16;
+            this.dtgr.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgr_CellClick);
             this.dtgr.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgr_CellContentClick);
             // 
             // FormPhongThue
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(808, 482);
+            this.ClientSize = new System.Drawing.Size(803, 497);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.txt_TimKiem);
             this.Controls.Add(this.label9);

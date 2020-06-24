@@ -17,7 +17,7 @@ namespace QuanLyKhachSan.View
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("server = DESKTOP-1HGH8ER\\SQLEXPRESS;database = QuanLyKhachSan; integrated security = SSPI");
+        SqlConnection con = new SqlConnection("server = DESKTOP-7MQ60DF\\SQLEXPRESS01;database = QuanLyKhachSan; integrated security = SSPI");
         private void HienThi(string truyvan)
         {
             con.Open();
@@ -34,11 +34,11 @@ namespace QuanLyKhachSan.View
 
         private void dtgr_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            txt_MaPhong.Text = dtgr.CurrentRow.Cells[0].Value.ToString();
-            txt_TenPhong.Text = dtgr.CurrentRow.Cells[1].Value.ToString();
-            txt_Gia.Text = dtgr.CurrentRow.Cells[2].Value.ToString();
-            txt_MaLoaiPhong.Text = dtgr.CurrentRow.Cells[3].Value.ToString();
-            cb_TrangThai.Text = dtgr.CurrentRow.Cells[4].Value.ToString();
+            //txt_MaPhong.Text = dtgr.CurrentRow.Cells[0].Value.ToString();
+            //txt_TenPhong.Text = dtgr.CurrentRow.Cells[1].Value.ToString();
+            //txt_Gia.Text = dtgr.CurrentRow.Cells[2].Value.ToString();
+            //txt_MaLoaiPhong.Text = dtgr.CurrentRow.Cells[3].Value.ToString();
+            //cb_TrangThai.Text = dtgr.CurrentRow.Cells[4].Value.ToString();
         }
 
         private void bt_Them_Click(object sender, EventArgs e)
@@ -76,6 +76,15 @@ namespace QuanLyKhachSan.View
         {
             string q = string.Format("select * from PhongThue where MaPhong like '%{0}%'", txt_TimKiem.Text);
             HienThi(q);
+        }
+
+        private void dtgr_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txt_MaPhong.Text = dtgr.CurrentRow.Cells[0].Value.ToString();
+            txt_TenPhong.Text = dtgr.CurrentRow.Cells[1].Value.ToString();
+            txt_Gia.Text = dtgr.CurrentRow.Cells[2].Value.ToString();
+            txt_MaLoaiPhong.Text = dtgr.CurrentRow.Cells[3].Value.ToString();
+            cb_TrangThai.Text = dtgr.CurrentRow.Cells[4].Value.ToString();
         }
     }
 }

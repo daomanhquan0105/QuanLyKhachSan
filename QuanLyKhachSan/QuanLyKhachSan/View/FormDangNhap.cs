@@ -53,7 +53,7 @@ namespace QuanLyKhachSan.View
                     {
                         this.Hide();
                         fm.ShowDialog();
-
+                        this.Close();
                     }
                     else
                     {
