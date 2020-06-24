@@ -124,6 +124,12 @@
     <Compile Include="View\FormKhachHang.Designer.cs">
       <DependentUpon>FormKhachHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\FormPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormPhong.Designer.cs">
+      <DependentUpon>FormPhong.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\FormQLDichVu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -141,6 +147,12 @@
     </Compile>
     <Compile Include="View\FormThanhToan.Designer.cs">
       <DependentUpon>FormThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormTrangBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormTrangBi.Designer.cs">
+      <DependentUpon>FormTrangBi.cs</DependentUpon>
     </Compile>
     <Compile Include="View\FormXacNhanTT.cs">
       <SubType>Form</SubType>
@@ -170,6 +182,9 @@
     <EmbeddedResource Include="View\FormKhachHang.resx">
       <DependentUpon>FormKhachHang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="View\FormPhong.resx">
+      <DependentUpon>FormPhong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\FormQLDichVu.resx">
       <DependentUpon>FormQLDichVu.cs</DependentUpon>
     </EmbeddedResource>
@@ -178,6 +193,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormThanhToan.resx">
       <DependentUpon>FormThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormTrangBi.resx">
+      <DependentUpon>FormTrangBi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormXacNhanTT.resx">
       <DependentUpon>FormXacNhanTT.cs</DependentUpon>
