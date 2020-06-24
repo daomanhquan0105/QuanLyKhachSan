@@ -17,7 +17,7 @@ namespace QuanLyKhachSan.View
         {
             InitializeComponent();
         }
-        SqlConnection con = new SqlConnection("server = DESKTOP-1HGH8ER\\SQLEXPRESS;database = QuanLyKhachSan; integrated security = SSPI");
+        SqlConnection con = new SqlConnection("server = DESKTOP-7MQ60DF\\SQLEXPRESS01;database = QuanLyKhachSan; integrated security = SSPI");
         private void HienThi(string truyvan)
         {
             con.Open();
@@ -77,6 +77,17 @@ namespace QuanLyKhachSan.View
         {
             string q = string.Format("select * from KhachHang where MaKH like '%{0}%'", txt_TimKiem.Text);
             HienThi(q);
+        }
+
+        private void dtgr_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txt_MaKH.Text = dtgr.CurrentRow.Cells[0].Value.ToString();
+            txt_HoTen.Text = dtgr.CurrentRow.Cells[1].Value.ToString();
+            txt_CMND.Text = dtgr.CurrentRow.Cells[2].Value.ToString();
+            txt_QuocTich.Text = dtgr.CurrentRow.Cells[3].Value.ToString();
+            cb_GioiTinh.Text = dtgr.CurrentRow.Cells[4].Value.ToString();
+            dtime_NgaySinh.Text = dtgr.CurrentRow.Cells[5].Value.ToString();
+            txt_SDT.Text = dtgr.CurrentRow.Cells[6].Value.ToString();
         }
     }
 }

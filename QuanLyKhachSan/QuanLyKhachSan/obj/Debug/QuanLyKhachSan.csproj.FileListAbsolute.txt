@@ -61,3 +61,27 @@ C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\ob
 C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
 C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Controller.FormMainMenu.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangKy.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangNhap.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormKhachHang.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormPhong.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormQLDichVu.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormSuDungDV.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormThanhToan.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormTrangBi.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormXacNhanTT.resources
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+G:\TTNhom\TTnhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

@@ -60,9 +60,11 @@
             this.dtgr.Dock = System.Windows.Forms.DockStyle.Top;
             this.dtgr.Location = new System.Drawing.Point(0, 0);
             this.dtgr.Name = "dtgr";
+            this.dtgr.RowHeadersWidth = 51;
             this.dtgr.RowTemplate.Height = 24;
             this.dtgr.Size = new System.Drawing.Size(793, 207);
             this.dtgr.TabIndex = 3;
+            this.dtgr.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgr_CellClick);
             this.dtgr.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgr_CellContentClick);
             // 
             // txt_TimKiem

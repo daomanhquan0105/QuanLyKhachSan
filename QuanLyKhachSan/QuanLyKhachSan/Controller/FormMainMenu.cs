@@ -44,5 +44,76 @@ namespace QuanLyKhachSan.Controller
             ftt.ShowDialog();
             this.Show();
         }
+
+        private void buttonPhong_Click(object sender, EventArgs e)
+        {
+            FormPhong phong = new FormPhong();
+            this.Hide();
+            phong.ShowDialog();
+            this.Show();
+        }
+
+        private void buttonVatDung_Click(object sender, EventArgs e)
+        {
+            FormTrangBi vatTu = new FormTrangBi();
+            this.Hide();
+            vatTu.ShowDialog();
+            this.Show();
+        }
+
+        private void buttonKhach_Click(object sender, EventArgs e)
+        {
+            FormKhachHang kh = new FormKhachHang();
+            this.Hide();
+            kh.ShowDialog();
+            this.Show();
+        }
+
+        private void buttonThuePhong_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void quanLyPhongToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormPhong phong = new FormPhong();
+            this.Hide();
+            phong.ShowDialog();
+            this.Show();
+        }
+
+        private void quanLyVatDungToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormTrangBi vatTu = new FormTrangBi();
+            this.Hide();
+            vatTu.ShowDialog();
+            this.Show();
+        }
+
+        private void quanLyKhachThueToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormKhachHang kh = new FormKhachHang();
+            this.Hide();
+            kh.ShowDialog();
+            this.Show();
+        }
+
+        private void quanLyDichVuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormQLDichVu ftt = new FormQLDichVu();
+            this.Hide();
+            ftt.ShowDialog();
+            this.Show();
+        }
+
+        private void huongDanSuDungToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void thanhToanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
