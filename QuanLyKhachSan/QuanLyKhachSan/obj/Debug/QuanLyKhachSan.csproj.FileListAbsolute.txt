@@ -38,3 +38,26 @@ G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormKhachHang.resources
 G:\TTNhom\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormPhongThue.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Controller.FormMainMenu.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangKy.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormDangNhap.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormKhachHang.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormPhongThue.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormQLDichVu.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormSuDungDV.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormThanhToan.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.View.FormXacNhanTT.resources
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CopyComplete
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Thực tập nhóm\TTN Bài 5\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

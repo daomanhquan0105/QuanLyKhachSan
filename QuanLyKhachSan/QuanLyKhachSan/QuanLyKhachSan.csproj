@@ -130,6 +130,18 @@
     <Compile Include="View\FormPhongThue.Designer.cs">
       <DependentUpon>FormPhongThue.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\FormQLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormQLDichVu.Designer.cs">
+      <DependentUpon>FormQLDichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormSuDungDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormSuDungDV.Designer.cs">
+      <DependentUpon>FormSuDungDV.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\FormThanhToan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -166,6 +178,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormPhongThue.resx">
       <DependentUpon>FormPhongThue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormQLDichVu.resx">
+      <DependentUpon>FormQLDichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormSuDungDV.resx">
+      <DependentUpon>FormSuDungDV.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\FormThanhToan.resx">
       <DependentUpon>FormThanhToan.cs</DependentUpon>

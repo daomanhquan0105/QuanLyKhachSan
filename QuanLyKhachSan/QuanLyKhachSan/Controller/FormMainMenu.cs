@@ -36,5 +36,13 @@ namespace QuanLyKhachSan.Controller
             this.Show();
 
         }
+
+        private void buttonDichVu_Click(object sender, EventArgs e)
+        {
+            FormQLDichVu ftt = new FormQLDichVu();
+            this.Hide();
+            ftt.ShowDialog();
+            this.Show();
+        }
     }
 }
